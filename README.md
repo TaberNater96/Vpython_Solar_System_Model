@@ -1,7 +1,5 @@
 # Vpython_Solar_System_Model
 
-# Solar-System-Model-in-Vpython-glowscript-
-
 The creation of the code behind the
 solar system animation 2.0 stems from the
 3D animation of vpython. Each planetary
